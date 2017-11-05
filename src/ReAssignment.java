@@ -6,9 +6,9 @@
 
 /*
  	Your predicted values for variables a, b, and c
-	a => 
-	b =>
-	c => 
+	a => 6
+	b =>9
+	c => 16
  
  	After testing the statements in the main method, indicate above if your predictions were correct.
 */
