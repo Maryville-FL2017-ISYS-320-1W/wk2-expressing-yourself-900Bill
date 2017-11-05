@@ -5,8 +5,8 @@
 */
 
 public class CollegeStudent {
-	String Year; 
-	int courses;
+	String year; 
+	int numCourses;
 	double gpa;
 	public static void main(String[] args) {
 		System.out.println ("Im saying this with tears");
